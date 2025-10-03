@@ -1,0 +1,41 @@
+VPN Client: ProtonVPN  
+Sources:  
+  - https://protonvpn.com/features  
+  - https://security.org/vpn/protonvpn/review  
+  - https://tecnobits.com/en/what-are-the-security-features-of-protonvpn/
+
+Encryption Standards:
+  - AES-256: Military-grade symmetric encryption used for data confidentiality.
+  - ChaCha20: Lightweight alternative optimized for mobile and low-power devices.
+  - RSA-4096: Used for secure key exchange.
+  - Perfect Forward Secrecy: Ensures session keys are ephemeral and not reused.
+
+VPN Protocols:
+  - WireGuard: Fast, modern protocol with minimal attack surface.
+  - OpenVPN (UDP/TCP): Highly configurable and widely supported.
+  - IKEv2/IPSec: Stable and mobile-friendly protocol with automatic reconnection.
+
+Privacy Infrastructure:
+  - No-Logs Policy: ProtonVPN does not log user activity, IP addresses, or session metadata. This policy is independently audited and enforced under Swiss law.
+  - Secure Core: Routes traffic through hardened servers in privacy-friendly countries (e.g., Iceland, Switzerland) before exiting to the internet.
+  - DNS Leak Protection: All DNS queries are handled internally by ProtonVPN to prevent exposure to third-party resolvers.
+  - Kill Switch: Automatically blocks internet traffic if the VPN connection drops, preventing IP leaks.
+  - Tor over VPN: Allows access to .onion sites without needing the Tor browser, adding an extra layer of anonymity.
+  - NetShield Ad-blocker: DNS-level filtering that blocks ads, trackers, and malware domains.
+  - Alternative Routing: Uses third-party networks like AWS to bypass censorship in restrictive regions.
+
+Transparency & Trust:
+  - Open-Source Clients: All ProtonVPN apps are open-source and available for public audit.
+  - Independent Security Audits: Conducted by third-party firms to verify code integrity and privacy claims.
+  - Based in Switzerland: Outside EU jurisdiction and not part of surveillance alliances like Five Eyes.
+
+Additional Features:
+  - Unlimited bandwidth on free tier (no ads).
+  - Multi-platform support: Windows, macOS, Linux, Android, iOS, Chromebook, Android TV.
+  - Bitcoin payments and anonymous signup options available.
+  - Integration with Proton ecosystem: ProtonMail, Proton Drive, Proton Pass.
+
+Notes:
+  - ProtonVPN is designed for activists, journalists, and privacy-conscious users.
+  - Its infrastructure is hardened against metadata collection, traffic analysis, and government subpoenas.
+  - Recommended for use in high-risk environments and censorship-heavy regions.

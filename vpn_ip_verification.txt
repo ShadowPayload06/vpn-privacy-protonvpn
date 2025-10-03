@@ -1,0 +1,14 @@
+VPN Client: ProtonVPN  
+Verification Tool: https://whatismyipaddress.com    
+VPN Status: Connected  
+Observed IPv4 Address: 169.150.218.17  
+IPv6 Address: Not detected  
+ISP: DataCamp Limited  
+City: Amsterdam  
+Region: North Holland  
+Country: Netherlands (Kingdom of)  
+Screenshot Filename: vpn_ip_check_netherlands.png  
+Notes:  
+  - IP address successfully changed after VPN connection.  
+  - Location matches selected server (NL-FREE#183).  
+  - VPN encryption presumed active.

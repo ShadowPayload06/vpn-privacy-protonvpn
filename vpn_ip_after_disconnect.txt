@@ -1,0 +1,12 @@
+VPN Client: ProtonVPN  
+Disconnection Status: VPN manually disconnected after prior Netherlands session  
+Reconnection Status: Connected to India (Fastest free server)  
+Server Location: India (Auto-selected)  
+Screenshot Filename: vpn_ip_after_disconnect.png  
+IP Verification Tool: Wikipedia tab open for reference  
+Notes:  
+  - ProtonVPN interface shows active connection to India server.  
+  - Map highlights Indian subcontinent with glowing marker.  
+  - Country list visible with "Global (All countries)" selected.  
+  - IP verification in progress via Wikipedia tab (not full IP tool).  
+  - Screenshot confirms server switch and interface responsiveness.

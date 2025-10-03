@@ -1,0 +1,12 @@
+VPN Client: ProtonVPN  
+Platform: Windows 11 
+Server Location: Netherlands (NL-FREE#183)  
+Connection Status: Protected  
+VPN Protocol: OpenVPN (UDP)  
+Session Duration: 2 minutes 1 second  
+Data Usage: 1.3 MB downloaded, 1.0 MB uploaded  
+Screenshot Filename: vpn_connected_status.png  
+Notes:  
+  - Connected to fastest free server in Netherlands.  
+  - Map interface confirms active connection.  
+  - No errors or interruptions observed during session.

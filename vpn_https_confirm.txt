@@ -1,0 +1,12 @@
+VPN Client: ProtonVPN  
+Website Visited: https://www.wikipedia.org  
+Browser: Edge  
+Encryption Protocol: HTTPS (TLS 1.3 assumed)  
+Certificate Authority: Verified via browser padlock  
+Padlock Status: Visible and secure  
+Screenshot Filename: vpn_https_confirm.png  
+Notes:  
+  - Browser displays "Connection is secure" message.  
+  - HTTPS protocol confirmed active with padlock icon in address bar.  
+  - No certificate warnings or errors observed.  
+  - Traffic is encrypted while VPN is active.
